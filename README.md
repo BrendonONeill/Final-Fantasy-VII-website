@@ -8,7 +8,7 @@ games.
 
 ## Still working on
 Need to add a lightbox to the image gallery.
-Will try expand the site more as I develope more skills in web layout.
+Add more content
 
 ## bugs
 sidebar showing on larger screens. 
